@@ -7,3 +7,6 @@ Ist ein deutscher, männlicher Schauspieler. Er hat ein gewisses Understatement,
 * spielt unterkühlt
 * wirkt unverstanden
 * sympathisc
+
+> Man kann da mit dem Segelboot fahren - 
+> bis nach Indien
