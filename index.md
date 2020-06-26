@@ -10,3 +10,5 @@ Ist ein deutscher, männlicher Schauspieler. Er hat ein gewisses Understatement,
 
 > Man kann da mit dem Segelboot fahren - 
 > bis nach Indien
+
+<img src="https://cdn.pixabay.com/photo/2020/05/26/13/22/puffins-5223057__340.jpg"/>
